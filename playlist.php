@@ -14,35 +14,50 @@ http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8
 #EXTINF:-1 group-title="RTSH " ,RTSH 2
 #EXTVLCOPT:user=ExoPlayerLib/2.11.4
 https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH 3 
+#EXTINF:-1 group-title="RTSH " ,RTSH 3
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH 24 
+#EXTINF:-1 group-title="RTSH " ,RTSH 24
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 https://tvlive.rtsh.dev/live/rtsh_24_ott_p3/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH Plus 
+#EXTINF:-1 group-title="RTSH " ,RTSH Plus
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 http://79.106.48.2/live/rtsh_plus_ott_p3/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH Shqip 
+#EXTINF:-1 group-title="RTSH " ,RTSH Shqip
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 http://79.106.48.2/live/rtsh_shqip_ott_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSHsport 
+#EXTINF:-1 group-title="RTSH " ,RTSHsport
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 https://tvlive.rtsh.dev/live/sport_mob_ppp2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH ShkollÃ« 
+#EXTINF:-1 group-title="RTSH " ,RTSH Shkolla
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4
 https://tvlive.rtsh.dev/live/rtsh_shkolle_mob_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH Agro 
+#EXTINF:-1 group-title="RTSH " ,RTSH Agro
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 https://tvlive.rtsh.dev/live/rtsh_agro_ott_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH MuzikÃ« 
+#EXTINF:-1 group-title="RTSH " ,RTSH Muzika
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 https://tvlive.rtsh.dev/live/rtsh_muzike_mob_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH Film 
+#EXTINF:-1 group-title="RTSH " ,RTSH Film
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 https://tvlive.rtsh.dev/live/rtsh_film_mob_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH SHqip 
+#EXTINF:-1 group-title="RTSH " ,RTSH SHqip
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 https://tvlive.rtsh.dev/live/rtsh_shqip_ott_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH Kuvend 
+#EXTINF:-1 group-title="RTSH " ,RTSH Kuvend
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 https://tvlive.rtsh.dev/live/rtsh_kuvendi_ott_p1/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH KorÃ§a 
+#EXTINF:-1 group-title="RTSH " ,RTSH Korca
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4
 https://tvlive.rtsh.dev/live/rtsh_korca_ott_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH Gjirokastra 
+#EXTINF:-1 group-title="RTSH " ,RTSH Gjirokastra
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4
 https://tvlive.rtsh.dev/live/rtsh_gjirokastra_mob_p1/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH KukÃ«si 
+#EXTINF:-1 group-title="RTSH " ,RTSH Kuksi
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4
 https://tvlive.rtsh.dev/live/rtsh_kukesi_ott_p2/playlist.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH Pluse 
+#EXTINF:-1 group-title="RTSH " ,RTSH Pluse
+#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4
 https://tvlive.rtsh.dev/live/rtsh_plus_ott_p2/playlist.m3u8
 
 
