@@ -4,14 +4,14 @@
 	"kryesore" : [
 		{
 			
-			"mtu":"http://tvshqip.xyz/gog.php",
+			"mtu":"https://raw.githubusercontent.com/mainape/alapp/main/playlist.m3u",
 
 			"mtuu":"https://raw.githubusercontent.com/mainape/alapp/main/playlist.m3u",
 			"appid":"ca-app-pub-6303685172759677~4345612576",
 			
-			"adbaner":"ca-app-pub-8336603601915057/2875110002a",
+			"adbaner":"ca-app-pub-8336603601915057/2875110002",
 			
-			"adint":"ca-app-pub-8336603601915057/9987313267a",
+			"adint":"ca-app-pub-8336603601915057/9987313267",
 			
 			"admob":"admob",
 			
