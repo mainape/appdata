@@ -10,7 +10,8 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/164.ts
 
 #EXTINF:-1 group-title="RTSH " ,RTSH 1 
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 
-#EXTINF:-1 group-title="RTSH " ,RTSH 2 
+#EXTINF:-1 group-title="RTSH " ,RTSH 2
+#EXTVLCOPT:http-user-agent 
 https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8 
 #EXTINF:-1 group-title="RTSH " ,RTSH 3 
 http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8 
