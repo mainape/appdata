@@ -4,7 +4,7 @@
 	"kryesore" : [
 		{
 			
-			"mtu":"http://tvshqip.xyz/gog.php",
+			"mtu":"https://raw.githubusercontent.com/mainape/appdata/main/playlist.php",
 
 			"mtuu":"https://raw.githubusercontent.com/mainape.m3u",
 			"appid":"ca-app-pub-6303685172759677~4345612576",
