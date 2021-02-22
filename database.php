@@ -4,9 +4,9 @@
 	"kryesore" : [
 		{
 			
-			"mtu":"https://raw.githubusercontent.com/mainape/alapp/main/playlist.m3u",
+			"mtu":"https://raw.githubusercontent.com/mainape/appdata/main/playlist.php",
 
-			"mtuu":"https://raw.githubusercontent.com/mainape/alapp/main/playlist.m3u",
+			"mtuu":"https://raw.githubusercontent.com/mainape.m3u",
 			"appid":"ca-app-pub-6303685172759677~4345612576",
 			
 			"adbaner":"ca-app-pub-8336603601915057/2875110002",
