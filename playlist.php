@@ -278,13 +278,13 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/158.ts
 #EXTINF:-1 group-title="GENERAL" ,ABC NEWS
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/299.ts
-#EXTINF:-1 group-title="GENERAL" ,Al.NEWS 24
+#EXTINF:-1 group-title="GENERAL" ,NEWS 24
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/198.ts
-#EXTINF:-1 group-title="GENERAL" ,AL.RAPORT TV
+#EXTINF:-1 group-title="GENERAL" ,RAPORT TV
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/168.ts
-#EXTINF:-1 group-title="GENERAL" ,Al.ORA NEWS
+#EXTINF:-1 group-title="GENERAL" ,ORA NEWS
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/197.ts
 #EXTINF:-1 group-title="GENERAL" ,ALSAT M
@@ -294,20 +294,13 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/169.ts
 
 
 
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="DOKUMENTAR " ,Al.Explorer Shkence
+#EXTINF:-1 group-title="DOKUMENTAR " ,Explorer Shkence
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/225.ts
-#EXTINF:-1 group-title="DOKUMENTAR " ,Al.Explorer Natyra
+#EXTINF:-1 group-title="DOKUMENTAR " ,Explorer Natyra
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/224.ts
-#EXTINF:-1 group-title="DOKUMENTAR " ,Al.Explorer Histori
+#EXTINF:-1 group-title="DOKUMENTAR " ,Explorer Histori
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/226.ts
 #EXTINF:-1 group-title="DOKUMENTAR " ,Tring World
@@ -322,29 +315,41 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/251.ts
 
 
 
+#EXTINF:-1 group-title="FILMA " ,Kino premier 1
+#EXTVLCOPT:http-user-agent=nonqin
+http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/79.ts
+#EXTINF:-1 group-title="FILMA " ,Kino premium 2
+#EXTVLCOPT:http-user-agent=nonqin
+http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/80.ts
+#EXTINF:-1 group-title="FILMA " ,Kino premium 3
+#EXTVLCOPT:http-user-agent=nonqin
+http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/81.ts
+#EXTINF:-1 group-title="FILMA " ,Kino premier  4
+#EXTVLCOPT:http-user-agent=nonqin
+http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/133.ts
 
 #EXTINF:-1 group-title="FILMA " ,Film Aksion
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/171.ts
-#EXTINF:-1 group-title="FILMA " ,Al.Film-Thriller
+#EXTINF:-1 group-title="FILMA " ,Film-Thriller
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/243.ts
-#EXTINF:-1 group-title="FILMA " ,AL.Film nje hd
+#EXTINF:-1 group-title="FILMA " ,Film Nje Hd
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/174.ts
-#EXTINF:-1 group-title="FILMA " ,AL.Film Komedi
+#EXTINF:-1 group-title="FILMA " ,Film Komedi
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/172.ts
-#EXTINF:-1 group-title="FILMA " ,AL.Film Hits
+#EXTINF:-1 group-title="FILMA " ,Film Hits
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/173.ts
 #EXTINF:-1 group-title="FILMA " ,Film Dy HD
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/175.ts
-#EXTINF:-1 group-title="FILMA " ,AL.Film Dram
+#EXTINF:-1 group-title="FILMA " ,Film Dram
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/176.ts
-#EXTINF:-1 group-title="FILMA " ,AL.Film Autor
+#EXTINF:-1 group-title="FILMA " ,Film Autor
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/177.ts
 #EXTINF:-1 group-title="FILMA " ,Family-HD
@@ -359,49 +364,23 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/441.ts
 #EXTINF:-1 group-title="FILMA " ,ART Kino 3 HD
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/440.ts
-#EXTINF:-1 group-title="FILMA " ,AL.Kino premier 1
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/79.ts
-#EXTINF:-1 group-title="FILMA " ,Al.Kino premium 2
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/80.ts
-#EXTINF:-1 group-title="FILMA " ,Al.Kino premium 3
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/81.ts
-#EXTINF:-1 group-title="FILMA " ,AL.Kino premier  4
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/133.ts
-#EXTINF:-1 group-title="FILMA " ,Q Premium 5HD
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/416.ts
-#EXTINF:-1 group-title="FILMA " ,Q Premium 4HD
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/417.ts
-#EXTINF:-1 group-title="FILMA " ,Q Premium 3HD
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/418.ts
-#EXTINF:-1 group-title="FILMA " ,Q Premium 2HD
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/419.ts
-#EXTINF:-1 group-title="FILMA " ,Q Premium 1HD
-#EXTVLCOPT:http-user-agent=nonqin
-http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/420.ts
-#EXTINF:-1 group-title="FILMA " ,Al.Tring-Super
+
+#EXTINF:-1 group-title="FILMA " ,Tring-Super
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/230.ts
-#EXTINF:-1 group-title="FILMA " ,Al.Tring-Life
+#EXTINF:-1 group-title="FILMA " ,Tring-Life
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/234.ts
-#EXTINF:-1 group-title="FILMA " ,Al.Tring-Fantasy
+#EXTINF:-1 group-title="FILMA " ,Tring-Fantasy
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/233.ts
-#EXTINF:-1 group-title="FILMA " ,Al.Tring-Comedy
+#EXTINF:-1 group-title="FILMA " ,Tring-Comedy
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/232.ts
-#EXTINF:-1 group-title="FILMA " ,Al.Tring-Action
+#EXTINF:-1 group-title="FILMA " ,Tring-Action
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/231.ts
-#EXTINF:-1 group-title="FILMA " ,Al.tring shqip
+#EXTINF:-1 group-title="FILMA " ,Tring shqip
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/229.ts
 #EXTINF:-1 group-title="FILMA " ,FILM SHQIP
