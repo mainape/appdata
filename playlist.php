@@ -112,9 +112,6 @@ http://arabicapps.ddns.net:86/live/reg54hgf/tg43ui76viz/79.ts
 #EXTINF:-1 group-title="TV 2" ,X Premier 2
 #EXTVLCOPT:http-user-agent=cooccar
 http://arabicapps.ddns.net:86/live/reg54hgf/tg43ui76viz/80.ts
-#EXTINF:-1 group-title="TV 2" ,chat2
-#EXTVLCOPT:http-user-agent=
-https://tawk.to/chat/5e73dd868d24fc226588c10d/default
 #EXTINF:-1 group-title="TV 2" ,ARTA TV 
 #EXTVLCOPT:http-user-agent=roptkutikeni
 https://tiny.gjirafa.com:443/live/ZvTsY6MH7RPPvXuUDjRjcEYkK7yryigW/yt1q1x720/index.m3u8
@@ -295,13 +292,13 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/169.ts
 
 
 
-#EXTINF:-1 group-title="DOKUMENTAR " ,Explorer Shkence
+#EXTINF:-1 group-title="DOKUMENTAR " ,Exp Shkence
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/225.ts
-#EXTINF:-1 group-title="DOKUMENTAR " ,Explorer Natyra
+#EXTINF:-1 group-title="DOKUMENTAR " ,Exp Natyra
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/224.ts
-#EXTINF:-1 group-title="DOKUMENTAR " ,Explorer Histori
+#EXTINF:-1 group-title="DOKUMENTAR " ,Exp Histori
 #EXTVLCOPT:http-user-agent=nonqin
 http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/226.ts
 #EXTINF:-1 group-title="DOKUMENTAR " ,Tring World
