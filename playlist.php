@@ -12,7 +12,7 @@ http://arabicapps.ddns.net:86/live/erthrtu65h/knjbmh7u7h/164.ts
 #EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4 
 http://edge01eu.ekranet.com:80/rtshhd_low/index.m3u8 
 #EXTINF:-1 group-title="RTSH " ,RTSH 2
-#EXTVLCOPT:user=ExoPlayerDemo/1.0.1 (Linux;Android 9) ExoPlayerLib/2.11.4
+#EXTVLCOPT:user=ExoPlayerLib/2.11.4
 https://tvlive.rtsh.dev/live/rtsh_2ott_p2/playlist.m3u8 
 #EXTINF:-1 group-title="RTSH " ,RTSH 3 
 http://79.106.48.2/live/rtsh_3ott_p3/playlist.m3u8 
