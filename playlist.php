@@ -489,11 +489,13 @@ http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
 #EXTINF:-1 group-title="MUZIK" ,OPOJA AL
 #EXTVLCOPT:http-user-agent=cooccar
 http://5.135.92.131:1935/live/euroAl/chunklist_w914697562.m3u8
+#EXTINF:-1 group-title="MUZIK" ,DeeJay TV
+#EXTVLCOPT:http-user-agent=
+http://deejay_tv-lh.akamaihd.net/i/DeejayTv_1@129866/index_600_av-p.m3u8
 
-
-
-
-
+#EXTINF:-1 group-title="MUZIK" ,Kral Pop
+#EXTVLCOPT:http-user-agent=
+https://0ajuu84p.rocketcdn.com/kralpop_720/chunklist.m3u8
 
 
 
