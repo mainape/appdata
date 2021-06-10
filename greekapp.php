@@ -5,7 +5,7 @@
 	"kryesore" : [
 		{
 			
-			"mtu":"http://51.15.7.108/kan2.php",
+			"mtu":"https://raw.githubusercontent.com/free-greek-iptv/greek-iptv/master/android.m3u",
 			
 			"appid":"ca-app-pub-7683993442880393~6499002234",
 			
