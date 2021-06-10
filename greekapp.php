@@ -67,7 +67,7 @@
 
 "alba":{
 	
-	"arra":"http://51.15.7.108/alb.m3u",
+	"arra":"http://51.15.7.108/a.m3u",
 	
 	"arrch":"http://51.15.7.108/agent.json",
 	
