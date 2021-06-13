@@ -18,7 +18,7 @@
 			
 			"adt":"mmmmmm",
 			
-			"adurl":"http://51.15.7.108/inf.html",
+			"adurl":"http://51.15.7.108/inf.htm",
 			
 			"adcount":"20",
 			
@@ -32,9 +32,9 @@
 			
 			"ends":"miri",
 			
-			"filma":"fCMV7jIEcBa8C+jiKwzDXmx4aQ14o+0nTgRfTVf2dFk=
-		]W2Chb+W4TGZ1ykVS5iI0Lw==
-	]fePRotm/GPefOHFAKSJ4WeBOWWqSI5k76MwI5O1niTI=",
+			"filma":"fCMV7jIEca8C+jiKwzDXmx4aQ14o+0nTgRfTVf2dFk=
+		]W2Chb+W4TGZ1ykVS5iI0L=
+	]fePRotm/GPefOHFAKSJ4WeBOWWqSI5k76MwI5O1",
 	
 	"filmac":"0",
 	
@@ -68,7 +68,7 @@
 
 "alba":{
 	
-	"arra":"http://51.15.7.108/a.m3u",
+	"arra":"http://51.15.7.108/a.m3",
 	
 	"arrch":"http://51.15.7.108/agent.json",
 	
@@ -86,15 +86,15 @@
 
 "tvd":{
 	
-	"ok":"nnullghfhgfh",
+	"ok":"nnullghfhgf",
 	
 	"xmluser":"error",
 	
-	"kry":"http://51.15.7.108/mob.php",
+	"kry":"http://51.15.7.108/mob.ph",
 	
 	"kryuser":"Plisi Local",
 	
-	"post":"https://iptvshqipott.com/app/android/plisilokal01/android_device_id_trial.php",
+	"post":"https://iptvshqipott.com/app/android/plisilokal01/android_device_id_trial.pp",
 	
 	"krysp":"22",
 	
